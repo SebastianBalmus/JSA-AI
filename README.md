@@ -14,6 +14,7 @@ This project contains three main components:
 - Install the npm packages in the `js/app` directory.
 - Install the pip packages in the `py` directory.
 - Run the UI using `npm run dev`.
+- Build the model by running the `Jupyter notebook`.
 - Run the backend using `uvicorn main:app --reload`.
 
 ## Further runs
