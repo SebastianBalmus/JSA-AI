@@ -1,0 +1,12 @@
+.appbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: calc(100vw - 40px);
+    min-height: 100px;
+    padding: 20px;
+    background-color: var(--background);
+    filter: brightness(95%);
+    margin-bottom: var(--spacing);
+    text-align: center;
+}

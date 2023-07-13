@@ -1,0 +1,6 @@
+canvas {
+    border-width: 6px;
+    border-style: solid;
+    border-image: linear-gradient(45deg, var(--purpleBorder), var(--blueBorder)) 1;
+    cursor: pointer;
+}

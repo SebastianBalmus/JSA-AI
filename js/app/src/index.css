@@ -1,0 +1,24 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  overflow-x: hidden;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+
+  --spacing: 20px;
+  --background: #FBF5F3;
+  --blueBorder: #1A659E;
+  --purpleBorder: #4A4063;
+  --mypeach: #F7C59F;
+  --myorange: #FF6B35;
+}
+
+body {
+  margin: 0;
+}

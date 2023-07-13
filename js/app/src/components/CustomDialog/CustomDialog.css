@@ -1,0 +1,16 @@
+.dialog-title {
+    display: flex;
+    justify-content: left;
+    align-self: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.dialog-content {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 100%;
+    gap: var(--spacing);
+}
