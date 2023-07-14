@@ -10,7 +10,7 @@ from utils.save_feedback_data import save_feedback_data
 
 
 app = FastAPI()
-MODEL_PATH = os.path.abspath(os.path.join(__file__, '../../..', 'model', 'pretrained'))
+MODEL_PATH = os.path.abspath(os.path.join(__file__, '../../..', 'model'))
 
 origins = [
     "http://localhost",
